@@ -34,8 +34,4 @@ eureka:
 
 app:
   storage:
-    path: ${user.home}/.ijse/eca/students
-
-app:
-  storage:
     bucket-name: "lahiru-gcp-bucket"
