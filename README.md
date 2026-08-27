@@ -155,5 +155,6 @@ curl -X POST http://localhost:<service-port>/actuator/refresh
 ```
 
 ---
+
+## 📄 License
 This project was developed as part of the Enterprise Cloud Architecture university module (Capstone Project — Alternative Option).
-```
